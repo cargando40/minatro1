@@ -585,3 +585,5 @@ Gdip_LockedBitsSearch(hStride,hScan,hWidth,hHeight,nStride,nScan,nWidth,nHeight
     , "int",sd, "cdecl int")
     Return ( E == "" ? -3007 : E )
 }
+
+; [PRUEBA-GIT] Archivo forzado a texto - %A_Now%
